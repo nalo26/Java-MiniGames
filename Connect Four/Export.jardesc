@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/nalo_/Desktop/Connect_Four.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Connect Four/Export.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Connect Four/src&lt;{Main.java[Main" manifestLocation="/Connect Four/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/Connect Four/.project"/>
+        <javaElement handleIdentifier="=Connect Four/src"/>
+        <file path="/Connect Four/.classpath"/>
+    </selectedElements>
+</jardesc>
